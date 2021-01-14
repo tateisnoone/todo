@@ -1,0 +1,19 @@
+  
+#container {
+    margin: auto;
+    width: 1200px;
+}
+h2 {
+    text-align: center;
+    color: green;
+  }
+  p {
+      text-align: center;
+    
+  }
+#loadButton {
+    width: 100px;
+    height: 40px;
+    margin-left:550px ;
+    background-color: rgb(197, 197, 197);
+}
